@@ -68,3 +68,37 @@
   margin-right: 10px;
 }
 
+@media screen and (max-width:768px){
+  .head{
+    width: 100%;
+  }
+
+  .foot{
+    width: 100%;
+  }
+
+  .main{
+    width: 100%;
+    display: block;
+  }
+
+  .step1{
+    margin: 0 auto;
+    width: 90%;
+    margin-bottom: 20px;
+    margin-top: 50px;
+  }
+
+  .step2{
+    margin: 0 auto;
+    width: 90%;
+    margin-bottom: 20px;
+  }
+
+  .step3{
+    width: 90%;
+    margin-bottom: 50px;
+  }
+
+}
+
